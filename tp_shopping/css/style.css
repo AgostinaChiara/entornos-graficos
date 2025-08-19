@@ -74,33 +74,12 @@ body {
 .card-title {
   font-size: 1.3rem;
   font-weight: bold;
-  color: #007bff;
+  color: var(--color-principal);
 }
 
 .card-text {
   font-size: 0.95rem;
   color: #555;
-}
-
-/* Botones */
-.btn-primary {
-  background-color: #007bff;
-  border-color: #007bff;
-}
-
-.btn-primary:hover {
-  background-color: #0056b3;
-  border-color: #0056b3;
-}
-
-.btn-outline-secondary {
-  color: #6c757d;
-  border-color: #6c757d;
-}
-
-.btn-outline-secondary:hover {
-  background-color: #6c757d;
-  color: white;
 }
 
 /* Sección de Contacto */
